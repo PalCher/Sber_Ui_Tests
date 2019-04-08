@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sber_Ui_Test</string>
+    <string name="fio">ФИО</string>
+    <string name="approve">Approve</string>
+</resources>
